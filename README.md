@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Basic Javascript Concepts
+## Basic Javascripts Concepts
 src/bases/
 
 1. Const & Let
